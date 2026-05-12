@@ -135,16 +135,27 @@ Users should avoid granting unnecessary permissions to any bot, including Setupi
 
 ---
 
-# 8. Data Retention
+# 8. Data Retention & Deletion
 
-Data may be retained only as long as necessary to:
+Setupify only retains data for as long as necessary to provide functionality and operate the Bot effectively.
 
-- Provide functionality
-- Maintain server presets
-- Prevent abuse
-- Improve services
+If Setupify is removed from a server, all associated server-related data may be automatically deleted immediately or within a reasonable cleanup period.
 
-Unused or unnecessary data may be removed at any time.
+If a user no longer interacts with Setupify or requests data removal, associated user-related data may also be deleted.
+
+Deleted data may include:
+
+- Server IDs
+- Channel IDs
+- Role IDs
+- Configuration settings
+- Setup presets
+- Stored preferences
+- Related usage data
+
+Some temporary backup or log data may remain for a short period for security, debugging, or abuse prevention purposes before permanent deletion.
+
+Setupify does not retain unnecessary data after the Bot is no longer used in a server.
 
 ---
 

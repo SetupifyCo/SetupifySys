@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=180&section=header&text=Privacy+Policy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
+
 # Setupify Privacy Policy
 
 **Last Updated:** May 11, 2026

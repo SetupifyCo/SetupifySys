@@ -1,17 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=180&section=header&text=SetupifyCo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Discord+Utility+Bot;Utility+Bot+Development;Server+Management+Solutions;Built+with+C%23+and+.NET" />
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-00C853?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-00C853?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord_Bots-00C853?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Utility-1e1e1e?style=for-the-badge">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=180&section=header&text=Terms+of+Service&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
